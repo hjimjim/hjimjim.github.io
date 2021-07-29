@@ -1,25 +1,23 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `Title`,                           // (* Required)
-  description: `Blog Description`,          // (* Required)
-  author: `Author`,                         // (* Required)
+  title: `Cloud.Dev`,                           // (* Required)
+  description: `Blog for Cloud Development`,          // (* Required)
+  author: `Jimin Hel`,                         // (* Required)
   language: 'ko-KR',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://',                      // (* Required)
-    // ex.'https://junhobaik.github.io'
-    // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
+  siteUrl: 'https://hjimjim.github.io',                      // (* Required)
 
   /** Header */
-  profileImageFileName: '', // include filename extension ex.'profile.jpg'
+  profileImageFileName: 'jimin.jpeg', // include filename extension ex.'profile.jpg'
     // The Profile image file is located at path "./images/"
     // If the file does not exist, it is replaced by a random image.
 
   /** Home > Bio information*/
-  comment: 'Enter your information in the "./config.js" file. ',
-  name: 'User Name',
+  comment: 'Good Vives Only',
+  name: 'Jimin Heo',
   company: '',
   location: 'Korea',
   email: '',
-  website: 'https://github.com/junhobaik/junhobaik.github.io',           // ex.'https://junhobaik.github.io'
+  website: 'https://github.com/hjimjim/hjimjim.github.io',           // ex.'https://junhobaik.github.io'
   linkedin: '',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
   facebook: '',                                                          // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
   instagram: '',                                                         // ex.'https://www.instagram.com/junhobaik'
