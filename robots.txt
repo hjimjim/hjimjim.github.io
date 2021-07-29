@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hjimjim.github.io/sitemap.xml
+Host: https://hjimjim.github.io
